@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'icomoon';
 	src:url('https://www.dropbox.com/s/aan2ziltnh5z0q9/icomoon.eot');
-	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+	src:url('https://www.dropbox.com/s/aan2ziltnh5z0q9/icomoon.eot?dl=0#iefix') format('embedded-opentype'),
 		url('https://www.dropbox.com/s/qcuptg7nv02scvy/icomoon.woff') format('woff'),
 		url('https://www.dropbox.com/s/bmi7kz3jqjj45cz/icomoon.ttf') format('truetype'),
 		url('https://www.dropbox.com/s/3o7vdhrayq08h8x/icomoon.dev.svg#icomoon') format('svg');
