@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('https://www.dropbox.com/s/aan2ziltnh5z0q9/icomoon.eot?dl=0');
-	src:url('https://www.dropbox.com/s/aan2ziltnh5z0q9/icomoon.eot?dl=0?#iefix') format('embedded-opentype'),
-		url('https://www.dropbox.com/s/qcuptg7nv02scvy/icomoon.woff?dl=0') format('woff'),
-		url('https://www.dropbox.com/s/bmi7kz3jqjj45cz/icomoon.ttf?dl=0') format('truetype'),
-		url('https://www.dropbox.com/s/11xle9hm6yge1t2/icomoon.svg?dl=0#icomoon') format('svg');
+	src:url('https://rawcdn.githack.com/alfapc/myjs/458f93e16048ff6c444bec3af3db107611fd8db0/icomoon.eot');
+	src:url('https://rawcdn.githack.com/alfapc/myjs/458f93e16048ff6c444bec3af3db107611fd8db0/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('https://rawcdn.githack.com/alfapc/myjs/458f93e16048ff6c444bec3af3db107611fd8db0/icomoon.woff') format('woff'),
+		url('https://rawcdn.githack.com/alfapc/myjs/458f93e16048ff6c444bec3af3db107611fd8db0/icomoon.ttf') format('truetype'),
+		url('https://rawcdn.githack.com/alfapc/myjs/458f93e16048ff6c444bec3af3db107611fd8db0/icomoon.svg#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
